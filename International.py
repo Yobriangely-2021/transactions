@@ -31,6 +31,7 @@ print("Dinero transferido correctamente")
 print("¿Quiere saber el saldo de su cuenta?")
 horno = input()
 
+
 numero1 = int(dato1)
 numero2 = int(dato2)
 restando = numero1 - numero2
