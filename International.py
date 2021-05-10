@@ -37,5 +37,3 @@ restando = numero1 - numero2
 strResta = str(restando)
 resultado = "Su saldo disponible en la cuenta es " + strResta
 print(resultado)
-
-print("HOla")
