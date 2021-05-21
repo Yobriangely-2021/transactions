@@ -1,2 +1,0 @@
-# transactions
-Mi primer proyecto 
